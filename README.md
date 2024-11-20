@@ -219,17 +219,4 @@ A public production pool requires a web-frontend for your users to check their h
 
 Once again, do not run a production pool on Windows! This is not a supported configuration.
 
-## Donations
 
-To support this project you can become a [sponsor](https://github.com/sponsors/oliverw) or send a donation to the following accounts:
-
-* ETH:  `miningcore.eth (ENS Address)`
-* BTC:  `miningcore.eth (ENS Address)`
-* LTC:  `miningcore.eth (ENS Address)`
-* DOGE: `DGDuKRhBewGP1kbUz4hszNd2p6dDzWYy9Q`
-* ETC:  `0xF8cCE9CE143C68d3d4A7e6bf47006f21Cfcf93c0`
-* DASH: `XqpBAV9QCaoLnz42uF5frSSfrJTrqHoxjp`
-* ZEC:  `t1YHZHz2DGVMJiggD2P4fBQ2TAPgtLSUwZ7`
-* BTG:  `GQb77ZuMCyJGZFyxpzqNfm7GB1rQreP4n6`
-* ERGO: `9foYU8JkoqWBSDA3ba8VHfduPXV2NaVNPPAFkdYoR9t9cPQGMv4`
-* XMR:  `46S2AEwYmD9fnmZkxCpXf1T3U3DyEq3Ekb8Lg9kgUMGABn9Fp9q5nE2fBcXebrjrXfZHy5uC5HfLE6X4WLtSm35wUr9Mh46`
